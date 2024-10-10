@@ -1,0 +1,6 @@
+reduc -state mangemet libraryv
+
+npm install @reduxjs/toolkit
+npm install react-redux
+important api in redux
+configurationstore()-
